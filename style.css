@@ -1,0 +1,78 @@
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+nav{
+    display: flex;
+   justify-content: space-between;
+}
+ul{
+    display: flex;
+    gap: 0px;
+}
+li{
+    list-style: none;
+    margin: 0px 5px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+footer{
+    margin-top: 500px;
+    text-align: center;
+}
+.parent{
+    background-color:rgb(247, 246, 246);
+    padding: 20px 20px;
+   
+}
+label{
+   margin-right: 50px; 
+   /* margin-bottom: 30px; */
+}
+
+.lastname{
+
+    margin-left: -0.2px;
+}
+.Screen{
+    margin-left: -15px;
+}
+input{
+    margin: 3px 0;
+    outline: 0;
+}
+.DoB{
+    margin-left: -15px;
+
+}
+.Country{
+    margin: 5px 17px;
+    
+}
+input[ type=email]{
+    margin: 5px 30px;
+
+}
+.phone{
+    margin-left: -27px;
+}
+.sex{
+   margin-left: 20px
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+  
+    padding: 8px 20px;
+}
+input{
+    margin: 5px 0px;
+}
+.gender{
+    margin: 5px 0;
+}

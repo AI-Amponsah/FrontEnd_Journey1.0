@@ -98,6 +98,8 @@ input{
     align-items: normal;
 }
 #justthatOne{
-    margin-left: -7px;
-
+    margin-left: -8px;
+}
+ input[type="radio"] {
+    margin-right: 5px; 
 }
